@@ -37,6 +37,7 @@ int main()
         std::cout << "The intersection point is ";
         a->print();
     }
+
     else std::cout << "Segments don't intersect or has an infinite number of intersection points";
 
 }
